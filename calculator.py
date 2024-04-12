@@ -7,9 +7,5 @@ def substraction(a, b):
     return result
 
 def division(a, b):
-    if b == 0:
-        print("Erreur : Division par zéro")
-        return None
-    else:
-        result = a / b
-        return result
+    result = a / b
+    return result
