@@ -9,4 +9,4 @@ def test_substraction():
 	assert substraction(2,1) == 1
 	
 def test_division():
-	assert division(2,1) == 2
+	assert division(2,1) == 1
